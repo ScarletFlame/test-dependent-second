@@ -1,0 +1,14 @@
+{
+  "name": "test-dependent-first",
+  "version": "1.0.0",
+  "description": "Test package dependencies check, second dependency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [],
+  "author": "AAL",
+  "license": "ISC"
+}
