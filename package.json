@@ -1,5 +1,5 @@
 {
-  "name": "test-dependent-first",
+  "name": "test-dependent-second",
   "version": "1.0.0",
   "description": "Test package dependencies check, second dependency",
   "main": "index.js",
